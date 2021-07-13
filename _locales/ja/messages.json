@@ -1,0 +1,23 @@
+{
+  "Name": {
+    "message": "大谷メーター"
+  },
+  "Description": {
+    "message": "大谷選手のHR数を表示します。"
+  },
+  "BadgeText": { "message": "$target$号",
+    "placeholders": {
+      "target": { "content": "$1" }
+    }
+  },
+  "YoutubeText": { "message": "YouTubeで$target$号を確認する！",
+    "placeholders": {
+      "target": { "content": "$1" }
+    }
+  },
+  "TwitterText": { "message": "Twitterで$target$号を確認する！",
+    "placeholders": {
+      "target": { "content": "$1" }
+    }
+  }
+}

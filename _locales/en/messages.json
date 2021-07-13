@@ -1,0 +1,23 @@
+{
+  "Name": {
+    "message": "OhtaniMeter"
+  },
+  "Description": {
+    "message": "Displays the number of HR of Shohei Ohtani"
+  },
+  "BadgeText": { "message": "$target$th",
+    "placeholders": {
+      "target": { "content": "$1" }
+    }
+  },
+  "YoutubeText": { "message": "Watch $target$th HR on Youtube！",
+    "placeholders": {
+      "target": { "content": "$1" }
+    }
+  },
+  "TwitterText": { "message": "Watch $target$th HR on Twitter！",
+    "placeholders": {
+      "target": { "content": "$1" }
+    }
+  }
+}
