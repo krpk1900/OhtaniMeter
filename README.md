@@ -4,8 +4,8 @@ https://chrome.google.com/webstore/detail/ohtanimeter/pbipgkaadgdbakhonngkopmnof
 
 # サービス概要
 
-<a href="https://sekigae.jp/">
-  <img src="https://user-images.githubusercontent.com/72296262/115614380-9f34f780-a328-11eb-93eb-a8b020c04b2f.gif" />
+<a href="https://chrome.google.com/webstore/detail/ohtanimeter/pbipgkaadgdbakhonngkopmnofndhdem">
+  <img src="https://user-images.githubusercontent.com/72296262/125817489-b6d41532-3548-40d6-8944-24a3e9666fa8.gif" />
 </a>
 
 大谷翔平選手のHR数が表示するChrome拡張機能です。  
